@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hey, I'm Adam, a Computer and Information Engineering Student at Cambridge University 🎓
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-sroka/)
 
 <!--
 **adam-sroka/adam-sroka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
