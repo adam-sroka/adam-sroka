@@ -1,4 +1,4 @@
-### Hey, I'm Adam, a Computer and Information Engineering Student at Cambridge University 🎓
+### Hey 👋, I'm Adam, a Computer and Information Engineering Student at Cambridge University 🎓
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-sroka/)
