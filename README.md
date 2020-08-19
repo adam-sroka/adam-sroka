@@ -1,4 +1,4 @@
-![Title Photo](img/header.png)](http://adamsroka.io/)
+[![Title Photo](img/header.png)](http://adamsroka.io/)
 
 ### Hey 👋, I'm Adam, an Information and Computer Engineering Student at Cambridge University 🎓
 
