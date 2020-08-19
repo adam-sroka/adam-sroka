@@ -1,6 +1,8 @@
 [![Title Photo](https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/header.png)](http://adamsroka.io/)
 
-### Hey 👋, I'm Adam, an Information and Computer Engineering Student at Cambridge University 🎓
+# Hey there! <img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/wave.gif" width="30px">
+
+I'm Adam, an Information and Computer Engineering Student at Cambridge University 🎓
 
 #### I'd love to get in touch:
 
