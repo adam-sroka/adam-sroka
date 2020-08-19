@@ -1,4 +1,4 @@
-[![Title Photo](https://github.com/adam-sroka/adam-sroka/img/header.png)](http://adamsroka.io/)
+[![Title Photo](https://github.com/adam-sroka/adam-sroka/blob/master/img/header.png)](http://adamsroka.io/)
 
 ### Hey 👋, I'm Adam, an Information and Computer Engineering Student at Cambridge University 🎓
 
