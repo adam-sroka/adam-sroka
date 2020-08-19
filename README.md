@@ -8,8 +8,8 @@ I'm Adam, and I'm currently in my third year of the Information and Computer Eng
 <p align="center">
   <i><b>I'd love to get in touch:<b></i>
     <p align="center">
-      <a href="https://www.linkedin.com/in/adam-sroka/" alt="Linkedin"><img src="https://raw.githubusercontent.com//readme/linkedin-fill.svg"></a>
-      <a href="mailto:adam@adamsroka.io" alt="Contact me"><img src="https://raw.githubusercontent.com//readme/mail-fill.svg"></a>
-    <a href="http://adamsroka.io" alt="My site"><img src="https://raw.githubusercontent.com//readme/external-link-line.svg"></a>
+      <a href="https://www.linkedin.com/in/adam-sroka/" alt="Linkedin"><img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/linkedin-fill.svg"></a>
+      <a href="mailto:adam@adamsroka.io" alt="Contact me"><img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/mail-fill.svg"></a>
+    <a href="http://adamsroka.io" alt="My site"><img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/external-link-fill.svg"></a>
   </p>
 </p>
