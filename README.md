@@ -6,7 +6,7 @@ I'm Adam, and I'm currently in my third year of the Information and Computer Eng
 
 
 <p align="center">
-  <i><b>I'd love to get in touch:<b></i>
+  <b>I'd love to get in touch:<b>
     <p align="center">
       <a href="https://www.linkedin.com/in/adam-sroka/" alt="Linkedin"><img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/linkedin-fill.svg"></a>
       <a href="mailto:as.idealizing@slmail.me" alt="Contact me"><img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/mail-fill.svg"></a>
