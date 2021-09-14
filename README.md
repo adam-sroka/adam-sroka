@@ -1,4 +1,4 @@
-[![Title Photo](https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/header.png)](http://adamsroka.io/)
+[![Title Photo](https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/header.png)](http://adamsroka.io)
 
 # Hey there! <img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/wave.gif" width="30px">
 
@@ -8,7 +8,7 @@ I'm Adam, and I'm currently in my final year of the Information and Computer Eng
 <p align="center">
   <b>I'd love to get in touch:<b>
     <p align="center">
-      <a href="https://www.linkedin.com/in/adam-sroka/" alt="Linkedin"><img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/linkedin-fill.svg"></a>
+      <a href="https://www.linkedin.com/in/adam-sroka" alt="Linkedin"><img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/linkedin-fill.svg"></a>
       <a href="mailto:as.idealizing@slmail.me" alt="Contact me"><img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/mail-fill.svg"></a>
     <a href="https://adamsroka.io" alt="My site"><img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/external-link-fill.svg"></a>
   </p>
