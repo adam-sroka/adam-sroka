@@ -1,4 +1,4 @@
-[![Title Photo](https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/header.png)](http://adamsroka.io)
+[![Title Photo](/img/header.jpg)](http://adamsroka.io)
 
 # Hey there! <img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka/master/img/wave.gif" width="30px">
 
