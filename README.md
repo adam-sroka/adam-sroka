@@ -1,4 +1,4 @@
-[![Title Photo](/img/header.jpg)](http://adamsroka.io)
+[![Title Photo](/img/header.jpg)](http://adam.sr)
 
 # Hey there! <img src="/img/wave.gif" width="30px">
 
