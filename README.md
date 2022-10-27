@@ -10,6 +10,5 @@ I'm Adam, and I've just finished my Masters degree in Information and Computer E
     <p align="center">
     <a href="https://adam.sr" alt="My site"><img src="/img/external-link-fill.svg"></a>
       <a href="mailto:as.idealizing@slmail.me" alt="Contact me"><img src="/img/mail-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/adam-sroka" alt="Linkedin"><img src="/img/linkedin-fill.svg"></a>
   </p>
 </p>
