@@ -8,7 +8,7 @@ I'm Adam, and I've just finished my Masters degree in Information and Computer E
 <p align="center">
   <b>I'd love to get in touch:<b>
     <p align="center">
-    <a href="https://adam.sr" alt="My site"><img src="/img/external-link-fill.svg"></a>
-      <a href="mailto:as.idealizing@slmail.me" alt="Contact me"><img src="/img/mail-fill.svg"></a>
+    <a href="https://adam.sr" alt="My website"><img src="/img/external-link-fill.svg"></a>
+      <a href="mailto:hi@adam.sr" alt="Email me"><img src="/img/mail-fill.svg"></a>
   </p>
 </p>
